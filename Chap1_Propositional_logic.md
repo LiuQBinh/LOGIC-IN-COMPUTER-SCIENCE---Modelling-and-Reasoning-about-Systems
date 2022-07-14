@@ -9,10 +9,47 @@
   - Trong phát triển logic, chúng ta không lo lắng về ý nghĩa thực sự của câu, chúng ta chỉ quan tâm cấu trúc logic của câu.
 
 ## 1.1 Declarative sentences (câu khai báo)
-## 1.2 Natural deduction
-## 1.3 Propositional logic as a formal language
-## 1.4 Semantics of propositional logic
-## 1.5 Normal forms
+- Câu khai báo, là câu có thể xem xét nó là đúng hay sai.
+
+
+- Declarative sentences example:
+  (1) The sum of the numbers 3 and 5 equals 8.
+  (2) Jane reacted violently to Jack’s accusations.
+  (3) Every even natural number >2 is the sum of two prime numbers.
+  (4) All Martians like pepperoni on their pizza
+
+- None-declarative sentences example:
+  - Could you please pass me the salt?
+  - Ready, steady, go!
+  - May fortune come your way
+
+- Từ các câu khai báo nguyên (atomic sentence), chúng ta có thể kết hợp để tạo ra câu phức tạp hơn.
+Ví dụ:
+  - p: ‘I won the lottery last week.’
+  - q: ‘I purchased a lottery ticket.’
+  - r: ‘I won last week’s sweepstakes.’
+
+  Chúng ta có thể tạo thành các câu phức tạp hơn theo quy tắc dưới đây:
+  - ¬: The negation of p is denoted by ¬p and expresses ‘I did not win the lottery
+    last week,’ or equivalently ‘It is not true that I won the lottery last week.’
+  - ∨: Given p and r we may wish to state that at least one of them is true: ‘I won the
+    lottery last week, or I won last week’s sweepstakes;’ we denote this declarative
+    sentence by p ∨ r and call it the disjunction of p and r2.
+  - ∧: Dually, the formula p ∧ r denotes the rather fortunate conjunction of p and r:
+    ‘Last week I won the lottery and the sweepstakes.’
+  - →: Last, but definitely not least, the sentence ‘If I won the lottery last week,
+    then I purchased a lottery ticket.’ expresses an implication between p and q,
+    suggesting that q is a logical consequence of p. We write p → q for that3. We
+    call p the assumption of p → q and q its conclusio
+  Ví dụ:
+    - (p ∧ q) → ((¬r) ∨ q)
+
+## 1.2 Natural deduction (suy luận tự nhiên)
+
+
+## 1.3 Propositional logic as a formal language (Mệnh đề logic như 1 ngôn ngữ chính thức)
+## 1.4 Semantics of propositional logic (Ngữ nghĩa của logic mệnh đề)
+## 1.5 Normal forms (Dạng bình thường)
 ## 1.6 SAT solvers
 ## 1.7 Exercises
 ## 1.8 Bibliographic notes
