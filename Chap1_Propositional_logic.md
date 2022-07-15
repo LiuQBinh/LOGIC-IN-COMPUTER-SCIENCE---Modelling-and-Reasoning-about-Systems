@@ -13,10 +13,11 @@
 
 
 - Declarative sentences example:
-  (1) The sum of the numbers 3 and 5 equals 8.
-  (2) Jane reacted violently to Jack’s accusations.
-  (3) Every even natural number >2 is the sum of two prime numbers.
-  (4) All Martians like pepperoni on their pizza
+
+  - (1) The sum of the numbers 3 and 5 equals 8.
+  - (2) Jane reacted violently to Jack’s accusations.
+  - (3) Every even natural number >2 is the sum of two prime numbers.
+  - (4) All Martians like pepperoni on their pizza
 
 - None-declarative sentences example:
   - Could you please pass me the salt?
