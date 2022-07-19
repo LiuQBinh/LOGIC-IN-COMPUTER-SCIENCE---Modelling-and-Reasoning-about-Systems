@@ -50,7 +50,7 @@ Ví dụ:
 
 ## 1.3 Propositional logic as a formal language (Mệnh đề logic như 1 ngôn ngữ chính thức)
 ## 1.4 Semantics of propositional logic (Ngữ nghĩa của logic mệnh đề)
-## 1.5 Normal forms (Dạng bình thường)
+## 1.5 Normal forms (Dạng chuẩn)
 ## 1.6 SAT solvers
 ## 1.7 Exercises
 ## 1.8 Bibliographic notes
